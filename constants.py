@@ -20,6 +20,7 @@ DROP_COLUMNS = ["url", "certificate", "plot"]
 
 # DATA TYPES
 INT_TYPE = "int"
+DOUBLE_TYPE = "float"
 
 # SOULS GAMES
 SOULS_GAMES = ["Demon’s Souls", "Dark Souls", "Dark Souls II",
@@ -42,7 +43,7 @@ FAVORITE_GAMES = ["Halo: Combat Evolved",
                   "Grand Theft Auto: San Andreas"]
 
 DROP_TOP5_COLUMNS = ["url", "certificate", "votes", "Action", "Adventure", "Comedy",
-                     "Crime", "Family", "Fantasy", "Mystery", "Sci-Fi", "Thriller"]
+                     "Crime", "Family", "Fantasy", "Mystery", "SciFi", "Thriller"]
 
 TOP5_COLUMNS = ["name", "year", "rating", "plot"]
 
